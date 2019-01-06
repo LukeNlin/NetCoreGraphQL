@@ -1,0 +1,18 @@
+1, David de Gea, Spanish, 28
+2, Victor Lindelof, Swedish, 24
+6, Paul Pogba, French, 25
+7, Alexis Sanchez, Chilean, 30
+11, Anthony Martial, French, 23
+9, Romelu Lukaku, Belgian, 25
+10, Marcus Rashford, English, 21
+17, Fred, Brazilian, 25
+27, Marouane Fellaini, Belgian, 31
+25, Antonio Valencia, Ecuadorian, 33
+14, Jesse Lingard, English, 26
+23, Luke Shaw, English, 23
+8, Juan Mata, Spanish, 30
+20, Diogo Dalot, Portugese, 19
+31, Nemanja Matic, Serbian, 30
+21, Ander Herrera, Spanish, 29
+3, Eric Bertrand Bailly, Ivorian, 24
+12, Chris Smalling, English, 12

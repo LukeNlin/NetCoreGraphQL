@@ -1,0 +1,9 @@
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\bin\Debug\netstandard2.0\GraphQLNetCore.Data.deps.json
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\bin\Debug\netstandard2.0\GraphQLNetCore.Data.dll
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\bin\Debug\netstandard2.0\GraphQLNetCore.Data.pdb
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\obj\Debug\netstandard2.0\GraphQLNetCore.Data.csprojAssemblyReference.cache
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\obj\Debug\netstandard2.0\GraphQLNetCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\obj\Debug\netstandard2.0\GraphQLNetCore.Data.AssemblyInfoInputs.cache
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\obj\Debug\netstandard2.0\GraphQLNetCore.Data.AssemblyInfo.cs
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\obj\Debug\netstandard2.0\GraphQLNetCore.Data.dll
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.Data\obj\Debug\netstandard2.0\GraphQLNetCore.Data.pdb

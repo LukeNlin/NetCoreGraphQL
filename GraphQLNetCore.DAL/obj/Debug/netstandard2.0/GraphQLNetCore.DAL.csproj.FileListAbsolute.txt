@@ -1,0 +1,12 @@
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\bin\Debug\netstandard2.0\GraphQLNetCore.DAL.deps.json
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\bin\Debug\netstandard2.0\GraphQLNetCore.DAL.dll
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\bin\Debug\netstandard2.0\GraphQLNetCore.DAL.pdb
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\bin\Debug\netstandard2.0\GraphQLNetCore.Data.dll
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\bin\Debug\netstandard2.0\GraphQLNetCore.Data.pdb
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\obj\Debug\netstandard2.0\GraphQLNetCore.DAL.csprojAssemblyReference.cache
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\obj\Debug\netstandard2.0\GraphQLNetCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\obj\Debug\netstandard2.0\GraphQLNetCore.DAL.AssemblyInfoInputs.cache
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\obj\Debug\netstandard2.0\GraphQLNetCore.DAL.AssemblyInfo.cs
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\obj\Debug\netstandard2.0\GraphQLNetCore.DAL.csproj.CopyComplete
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\obj\Debug\netstandard2.0\GraphQLNetCore.DAL.dll
+C:\Users\onionknight\Desktop\GraphQL\GraphQLNetCore.DAL\obj\Debug\netstandard2.0\GraphQLNetCore.DAL.pdb

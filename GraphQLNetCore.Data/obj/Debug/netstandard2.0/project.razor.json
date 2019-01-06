@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\onionknight\\Desktop\\GraphQL\\GraphQLNetCore.Data\\GraphQLNetCore.Data.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
